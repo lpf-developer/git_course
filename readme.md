@@ -39,3 +39,25 @@ git branch mybranch
 ```bash
 git checkout name_of_branch
 ``` 
+## Eighth Step - Merge Branchs
+
+```bash
+git marge "branch name" //Mescla a branch atual com a informada 
+```
+
+## Nineth Step - Copy local repository to remote
+
+```bash
+git remote add origin https://github.com/lpf-developer/git_course.git
+```
+
+## Tenth - Show remote repository created
+
+```bash
+git remote
+```
+## Eleventh Step - Push local repository files to remote repository
+
+```bash
+git push -u origin main
+```
