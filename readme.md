@@ -27,10 +27,15 @@ git branch -m main //Quando posicionado na própria branch (ramificação)
 ## Fifth Step - List all branchs
 
 ```bash
-git branch
+git branch 
 ```
 ## Sixth Step - Create a new branch
 
 ```bash
 git branch mybranch
 ```
+## Seventh Step - Move to a new branch
+
+```bash
+git checkout name_of_branch
+``` 
